@@ -8,3 +8,4 @@ let person=[
     {id:2,name:'b',age:14},
     {id:3,name:'c',age:15}];
 person.forEach(p=>console.log(p.name +" "+p.age));
+//i am gay 
